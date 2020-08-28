@@ -2,7 +2,7 @@
 
 ###### E. Bartolini et al.
 
-### upplementary Information
+### Supplementary Information
 
 Custom scripts for figures and related analyses:
 
