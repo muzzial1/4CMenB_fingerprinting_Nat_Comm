@@ -1,8 +1,8 @@
-###Immunological fingerprint of 4CMenB recombinant antigens via protein microarray reveals key immunosignatures correlating with bactericidal activity
+### Immunological fingerprint of 4CMenB recombinant antigens via protein microarray reveals key immunosignatures correlating with bactericidal activity
 
-######E. Bartolini et al.
+###### E. Bartolini et al.
 
-###Supplementary Information
+### upplementary Information
 
 Custom scripts for figures and related analyses:
 
